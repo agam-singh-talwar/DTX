@@ -75,6 +75,13 @@ body{
     height: 100vh;
 }
 
+.insurance .car-body i{
+    font-size: 50px;
+}
+
+.insurance .card-body{
+    box-shadow: 15px 15px 40px rgba(0,0, 0, 0.15);
+}
 /* Responsve */
 @media only screen and (min-width : 760px) and (min-wdth: 991px){
     .carousel-caption{
@@ -99,3 +106,4 @@ body{
         font-size: 12px;
     }
 }
+
